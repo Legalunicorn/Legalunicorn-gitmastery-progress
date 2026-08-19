@@ -1,0 +1,192 @@
+[
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1786636679.258348,
+    "completed_at": 1786636682.686899,
+    "comments": [
+      "Remote 'alice-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-alice"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1786636714.107537,
+    "completed_at": 1786636717.757169,
+    "comments": [
+      "You have not fetched Alice's changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1786636755.897824,
+    "completed_at": 1786636757.602595,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786633858.948035,
+    "completed_at": 1786633860.807063,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786635562.612452,
+    "completed_at": 1786635569.968755,
+    "comments": [
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786635638.608993,
+    "completed_at": 1786635645.557231,
+    "comments": [
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786635783.604347,
+    "completed_at": 1786635788.776483,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786635320.168564,
+    "completed_at": 1786635325.288816,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786634693.131456,
+    "completed_at": 1786634766.580693,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786634773.260459,
+    "completed_at": 1786634780.526387,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786634796.264492,
+    "completed_at": 1786634832.83197,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786634861.145539,
+    "completed_at": 1786634866.933411,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786633713.630857,
+    "completed_at": 1786633715.377038,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786633983.768358,
+    "completed_at": 1786633985.779264,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1786637611.572765,
+    "completed_at": 1786637615.101517,
+    "comments": [
+      "Missing lightweight tag \"first-pilot\"."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1786637688.998182,
+    "completed_at": 1786637690.746824,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786629227.636739,
+    "completed_at": 1786629231.133251,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786629363.067999,
+    "completed_at": 1786629366.843192,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786629453.289796,
+    "completed_at": 1786629457.33125,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786629499.481529,
+    "completed_at": 1786629503.135117,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786629603.935023,
+    "completed_at": 1786629605.56929,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
