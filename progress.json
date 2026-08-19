@@ -531,5 +531,14 @@
       "Expected commit message of 'Add the search feature', got 'Add the delete feature' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787150542.36337,
+    "completed_at": 1787150546.105132,
+    "comments": [
+      "Expected commit message of 'Add the delete feature', got '<Missing commit>' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
