@@ -204,5 +204,14 @@
     "completed_at": 1787136913.944778,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787137032.893305,
+    "completed_at": 1787137036.569178,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
   }
 ]
